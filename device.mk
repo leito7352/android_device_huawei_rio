@@ -14,4 +14,4 @@ PRODUCT_COPY_FILES += \
 
 $(call inherit-product, build/target/product/full.mk)
 
-PRODUCT_NAME := rio
+PRODUCT_NAME := RIO-L03
